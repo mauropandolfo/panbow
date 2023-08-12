@@ -24,6 +24,6 @@ fortune| cowsay | panbow
 ```
 ![democowsay](https://i.imgur.com/eidczDM.png)
 
-### Disclaimer.
+### Disclaimer
 El codigo esta basado en el proyecto presentado en la siguiente [URL](https://flaviocopes.com/go-tutorial-lolcat/), con una vuelta de tuerca para darle un valor agregado.
 
